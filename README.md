@@ -35,7 +35,7 @@ This repository contains a Python script for detecting age and gender from image
 3. **Download the required file**:
 4.    Download the necessary files from the following link and add them to the repository directory:
 
-    [Download Models](https://drive.google.com/file/d/1SaUUXpK-i8LEinYoL91BlbHuQbrYbjom/view?pli=1)
+    [Download File](https://drive.google.com/file/d/1SaUUXpK-i8LEinYoL91BlbHuQbrYbjom/view?pli=1)
 
 ## Usage
 
